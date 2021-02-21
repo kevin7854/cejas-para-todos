@@ -1,0 +1,162 @@
+body{
+    margin: 0px;
+}
+
+
+video{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%; 
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+z-index: -1;
+
+}
+
+
+header{
+ background-image: url(/cejasparatodos/Img/20890.jpg);
+ margin: 0px;
+ opacity:0.7 ;
+ padding-top: 7%;
+}
+
+
+
+
+.logo{
+
+    position:absolute;
+    right: 42%; 
+    top: 4%;
+    width: 300px;
+     
+    padding: 1px;
+    
+    }
+
+
+.titulo-uno{
+ 
+    text-align: center;
+    color: rgb(45, 157, 231);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color: rgb(70, 166, 230);
+    top: 1px;
+    
+
+
+}
+
+
+ 
+.as-uno {
+padding-top: 10px;
+    color: rgb(70, 166, 230);
+    padding-left: 550px;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.as-dos {
+    padding-top: 10px;
+        color: rgb(70, 166, 230);
+        padding-left: 550px;
+        font-size: 30px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.ulti{
+    color: ivory;
+    padding-top: 409px;
+    text-align: center;
+}
+
+
+.boton {
+    padding: 0;
+    }
+
+    .boton li {
+        display: inline;
+        }
+
+        .boton li a {
+            font-family: Georgia, 'Times New Roman', Times, serif   ;
+            font-size: 13px;
+            text-decoration: none;
+            float: left;
+            padding: 20px;
+            background-color: #2aa5ec;
+            color: rgb(0, 0, 0);
+            opacity:0.7 ;
+
+        
+            }
+
+            .boton{
+                position: absolute;
+
+                top: 4%;
+                left: 4% ;
+            }
+
+
+            #t{
+
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                color: rgb(139, 255, 255);
+font-size: 80px;
+opacity:0.7 ;
+
+            }   
+
+
+#t{
+position: relative;
+left: 65%;
+
+}
+
+
+
+
+
+            #m{
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                color: rgb(3, 89, 248);
+                font-size: 30px;
+                padding: 33px;
+                width: 35%;
+                border-radius: 10%;
+
+                
+            }
+
+            #m {
+                background-color: rgb(47, 226, 226);
+                opacity: 0.6;
+            }
+
+            #m{
+                position: absolute;
+                right: 3% ;
+                
+
+            }
+
+            #u{
+
+                position: absolute;
+
+                text-align: center;
+                text-emphasis: none;
+                top: 98%;
+                right:50% ;
+
+            }
+
+            
